@@ -25,6 +25,8 @@ Make sure you have the following installed on your development machine:
 Clone the repository:
 
 git clone https://github.com/yourusername/employee-directory-app.git
+
+
 cd employee-directory-app
 
 flutter pub get
