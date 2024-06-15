@@ -22,8 +22,10 @@ Make sure you have the following installed on your development machine:
 
 ### Installing
 
-1. **Clone the repository:**
+Clone the repository:
 
-   ```sh
-   git clone https://github.com/yourusername/employee-directory-app.git
-   cd employee-directory-app
+git clone https://github.com/yourusername/employee-directory-app.git
+cd employee-directory-app
+
+flutter pub get
+flutter run
