@@ -32,13 +32,13 @@ cd employee-directory-app
 flutter pub get
 
 
-Build for Android: ---          flutter build apk
+Build for Android:flutter build apk
 
 
 
-Build for iOS:
+Build for iOS:flutter build ios
 
-Make sure you have a Mac with Xcode installed , ----      flutter build ios
+Make sure you have a Mac with Xcode installed ,
 
 
 flutter run
