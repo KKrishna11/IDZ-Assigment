@@ -30,4 +30,6 @@ git clone https://github.com/yourusername/employee-directory-app.git
 cd employee-directory-app
 
 flutter pub get
+
+
 flutter run
